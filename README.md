@@ -26,13 +26,15 @@ The primary goal of this project was to explore the mathematical foundations of 
 ## 🛠 Tech Stack
 * **Language:** Java 17
 **Framework:** Java Swing (Desktop GUI) 
-**Build Tool:** Maven 
-**Architecture:** Modular DAO-inspired design with a unified `Compressor` interface.
+**Architecture: Modular Object-Oriented Design with a unified Compressor interface
+**Approach: Manual implementation of algorithms (zero external compression libraries used)
 
-## 🚀 Getting Started
-1. **Clone the repository.**
-2. **Build with Maven:** `mvn clean install`
-3. *Launch:** Run the `CompressionApp` class
+## Getting Started
+1. **Prerequisites**
+2. Java JDK 17 or higher
+3. An IDE (IntelliJ IDEA is recommended)
+4. Clone the repository to your local machine.
+5. *Launch:** Run the `CompressionApp` class
    Supported text formats: `.txt`, `.csv`
    Supported image formats: `.jpg`, `.jpeg`, `.png`.
 
